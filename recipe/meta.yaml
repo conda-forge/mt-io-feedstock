@@ -1,4 +1,4 @@
-{% set version = "0.0.3" %}
+{% set version = "0.0.4" %}
 
 package:
   name: mt-io
@@ -6,7 +6,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/m/mt-io/mt_io-{{ version }}.tar.gz
-  sha256: 40567effb4e878ba4b7f919f27e3e3093af804bc694081425cf057d558d734d0
+  sha256: 155b923bb68a884badccf3886c22d963c11965f39e899accb6d3461b6db51ab4
 
 build:
   noarch: python
